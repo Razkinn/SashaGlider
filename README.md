@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 Instagram : @/nyan.artz
 Email me at sasha.glider.fibbythemonster@gmail.com
-Discord : Nyan#9537
+Discord : Razkin#9537
 
 <!---
 SashaGlider/SashaGlider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
